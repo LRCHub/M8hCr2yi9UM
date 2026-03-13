@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Best Friends【P4U】",
+  "base_artist": "川村ゆみ",
+  "createdAt": "2026-03-13T13:26:10.214232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Friends【P4U】",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/01_Best_Friends【P4U】_川村ゆみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Friends 【P4U】",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/02_Best_Friends_【P4U】_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Best Friends【P4U】",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/03_Best_Friends【P4U】_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Best Friends【P4U】",
+      "artist": "川村ゆみ",
+      "has_synced": true,
+      "path": "select/04_Best_Friends【P4U】_川村ゆみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best Friends",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Best_Friends_川村ゆみ.txt"
+    }
+  ]
+}
